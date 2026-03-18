@@ -112,4 +112,23 @@ The analysis combines **Python (EDA & feature engineering)** and **Power BI (int
 
 ---
 
-## 📎 Project Structure
+## 🚀 How to Run
+1. Open the notebook in Google Colab / Jupyter
+2. Run EDA and data preparation
+3. Load dataset into Power BI
+4. Open `.pbix` file to explore dashboard
+
+---
+
+## 👤 Author
+**Mafud Satrio Setiono**  
+Data Analyst / Data Science  
+
+- 📧 Email: riostetiono23@gmail.com  
+- 🔗 LinkedIn: (isi nanti)  
+- 💻 GitHub: (ini repo kamu)
+
+---
+
+## ⭐ Notes
+This project is part of my data analyst portfolio showcasing end-to-end data analysis from raw data to dashboard visualization.
