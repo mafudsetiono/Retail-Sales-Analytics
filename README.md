@@ -125,8 +125,8 @@ The analysis combines **Python (EDA & feature engineering)** and **Power BI (int
 Data Analyst / Data Science  
 
 - 📧 Email: riostetiono23@gmail.com  
-- 🔗 LinkedIn: (isi nanti)  
-- 💻 GitHub: (ini repo kamu)
+- 🔗 LinkedIn: https://www.linkedin.com/in/mafud-satrio-setiono-5950a7266/  
+- 💻 GitHub: https://github.com/mafudsetiono
 
 ---
 
